@@ -10,9 +10,9 @@
         <relativePath/>
     </parent>
 
-    <artifactId>test.jenkins</artifactId>
+    <artifactId>test-jenkins</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>test.jenkins</name>
+    <name>test-jenkins</name>
     <description>Demo project for Spring Boot</description>
 
     <dependencies>
